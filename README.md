@@ -1,7 +1,4 @@
 
-# Desafio-Phishing 
-
-
 # Simulação de Phishing – Projeto Educacional
 
 Este projeto demonstra como ataques de **phishing** são estruturados e como podem ser analisados em ambiente seguro.  
